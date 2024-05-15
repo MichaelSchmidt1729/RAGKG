@@ -1,5 +1,8 @@
 #wird umgeschrieben. siehe genai-stack chains.py loader.py bot.py utils.py
 #ToDo aufteilen auf mehrere Dateien oder jupyterNB
+# https://neo4j.com/developer-blog/tagged/genai/
+# https://blog.gopenai.com/improved-rag-with-llama3-and-ollama-c17dc01f66f6
+# https://neo4j.com/developer-blog/construct-knowledge-graphs-unstructured-text/
 
 import os
 import re
